@@ -29,12 +29,10 @@ Built using Next.js, Firebase, OpenAI, Stripe, and Clerk for a modern SaaS exper
    git clone https://github.com/afnancrystal/flashcard-saas.git
    cd flashcard-saas
 
-
 2. **Install dependencies**:
 
    ```bash
    npm install
-   ``
 
 3. 🔐 **Set up environment variables**:
 
@@ -47,14 +45,12 @@ Built using Next.js, Firebase, OpenAI, Stripe, and Clerk for a modern SaaS exper
    STRIPE_SECRET_KEY=your_stripe_secret_key
    NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
    OPENAI_API_KEY=your_openai_api_key
-   ``
 
 4. **Run the development server locally**:
 
    ```bash
    npm run dev
-   ``
-
+   
    Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 ## 🧪 Testing the Application
