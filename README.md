@@ -50,7 +50,8 @@ Built using Next.js, Firebase, OpenAI, Stripe, and Clerk for a modern SaaS exper
 
    ```bash
    npm run dev
-   
+   ```
+
    Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 ## 🧪 Testing the Application
