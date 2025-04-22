@@ -1,6 +1,7 @@
+# 📚 AI Flashcard SaaS
+
 🎩 No hocus, just focus — your AI flashcard wizard is here!
 
-# 📚 AI Flashcard SaaS
 An AI-powered flashcard generator that helps users create, manage, and study flashcards efficiently.  
 Built using Next.js, Firebase, OpenAI, Stripe, and Clerk for a modern SaaS experience.
 
