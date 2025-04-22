@@ -28,7 +28,7 @@ Built using Next.js, Firebase, OpenAI, Stripe, and Clerk for a modern SaaS exper
    ```bash
    git clone https://github.com/afnancrystal/flashcard-saas.git
    cd flashcard-saas
-   ``
+
 
 2. **Install dependencies**:
 
